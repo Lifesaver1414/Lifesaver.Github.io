@@ -11,9 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```Gandalf the White
 Syntax highlighted code block
 
-# Things to know about me!
-## My Job Experience!
+# Favorite Quote- If you liked it then you should have put a ring on it.
+## My Job Experience
 ### My Hobbits! I mean Hobbies!
+
+<html> <head>  
+<title>Here goes the title of the  
+document</title> </head> <body>   
+Here goes the he content of the  document...... </body> </html>
 
 - Bulleted
 - List
