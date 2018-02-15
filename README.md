@@ -2,6 +2,8 @@
 
 HEEEEYYYYYYOOOOOO! Its your favorite Wizard. Got bored, Middle-Earth was to mundane. This is my application to any other world out there. Im Looking at you Skyrim!
 
+<img src="http://img0.joyreactor.com/pics/post/gandalf-iphone-photomontage-funny-pictures-371673.jpeg" alt="text">
+
 ### Gandalf the White
 
 Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help needed.
