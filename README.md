@@ -1,12 +1,12 @@
 ## Gandalf the White
 
-You can use the [editor on GitHub](https://github.com/Lifesaver1414/Lifesaver.Github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+HEEEEYYYYYYOOOOOO! Its your favorite Wizard. Got bored, Middle-Earth was to mundane. This is my application to any other world out there. Im Looking at you Skyrim!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Gandalf the White
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help needed.
 
 ```Gandalf the White
 
