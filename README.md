@@ -22,3 +22,5 @@ Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help 
 3. I created the fellowship
 
 <a href="url"> https://lifesaver1414.github.io/Lifelesson/ </a>
+<a href="url"> https://lifesaver1414.github.io/Lifelesson/ </a>
+<a href="url"> https://lifesaver1414.github.io/Lifelesson/ </a>
