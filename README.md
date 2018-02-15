@@ -23,10 +23,10 @@ Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help 
 2. I arranged the quest of Erobor
 3. I created the fellowship
 
-<a href="url"> https://lifesaver1414.github.io/Lifelesson/ </a>
+<a href="https://lifesaver1414.github.io/Lifelesson/"> Click Here! </a>
 
-<a href="url"> https://lifesaver1414.github.io/Past-Residences/ </a>
+<a href=" https://lifesaver1414.github.io/Past-Residences/"> Click Here! </a>
 
-<a href="url"> https://lifesaver1414.github.io/Pretty-Majestic/ </a>
+<a href="https://lifesaver1414.github.io/Pretty-Majestic/"> Click Here! </a>
 
 <body> Sauron's forces are still at work! If the link doesn't take you the page, copy the link and paste it in the search bar! I'll repel his influece while you do so! </body>
