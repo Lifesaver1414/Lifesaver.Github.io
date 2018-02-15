@@ -12,14 +12,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # Favorite Quote- If you liked it then you should have put a ring on it.
 ## My Job Experience
-### My Hobbits! I mean Hobbies!
+### Here are some of my accomplishments!
 
 <html>
   <title> I served on the white council</title>
   <body> I was one of the head members of the council that grew to oppose Sauron, your welcome.</body>
   </html>
 
-- Bulleted
 - List
 
 1. I was a member of the white council!
