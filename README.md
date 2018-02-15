@@ -24,8 +24,9 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. I was a member of the white council!
+2. I arranged the quest of Erobor
+3. I created the fellowship
 
 **Bold** and _Italic_ and `Code` text
 
