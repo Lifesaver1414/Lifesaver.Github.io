@@ -8,7 +8,7 @@ HEEEEYYYYYYOOOOOO! Its your favorite Wizard. Got bored, Middle-Earth was to mund
 
 Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help needed.
 
-# Favorite Quote- If you liked it then you should have put a ring on it.
+# ***Favorite Quote- If you liked it then you should have put a ring on it.
 ## My Job Experience
 ### Here are some of my accomplishments!
 
