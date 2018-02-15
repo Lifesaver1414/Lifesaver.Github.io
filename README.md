@@ -2,13 +2,9 @@
 
 HEEEEYYYYYYOOOOOO! Its your favorite Wizard. Got bored, Middle-Earth was to mundane. This is my application to any other world out there. Im Looking at you Skyrim!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Gandalf the White
 
 Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help needed.
-
-```Gandalf the White
 
 # Favorite Quote- If you liked it then you should have put a ring on it.
 ## My Job Experience
@@ -25,17 +21,3 @@ Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help 
 2. I arranged the quest of Erobor
 3. I created the fellowship
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lifesaver1414/Lifesaver.Github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
