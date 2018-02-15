@@ -15,7 +15,7 @@ Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help 
   <body> I was one of the head members of the council that grew to oppose Sauron, your welcome.</body>
   </html>
 
-- List
+- Things to know!
 
 1. I was a member of the white council!
 2. I arranged the quest of Erobor
