@@ -8,12 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```Gandalf the White
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Things to know about me!
+## My Job Experience!
+### My Hobbits! I mean Hobbies!
 
 - Bulleted
 - List
