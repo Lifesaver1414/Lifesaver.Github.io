@@ -16,7 +16,6 @@ Syntax highlighted code block
 ### My Hobbits! I mean Hobbies!
 
 <html>
-<head> I have quite the experience!
   <title> I served on the white council</title>
   </head>
   <body> I was one of the head members of the council that grew to oppose Sauron, your welcome.</body>
