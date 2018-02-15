@@ -9,7 +9,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```Gandalf the White
-Syntax highlighted code block
 
 # Favorite Quote- If you liked it then you should have put a ring on it.
 ## My Job Experience
@@ -17,7 +16,6 @@ Syntax highlighted code block
 
 <html>
   <title> I served on the white council</title>
-  </head>
   <body> I was one of the head members of the council that grew to oppose Sauron, your welcome.</body>
   </html>
 
