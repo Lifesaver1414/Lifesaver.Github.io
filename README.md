@@ -25,7 +25,7 @@ Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help 
 
 <a href="https://lifesaver1414.github.io/Lifelesson/"> Lifelesson </a>
 
-<a href=" https://lifesaver1414.github.io/Past-Residences/"> Past Residences </a>
+<a href="https://lifesaver1414.github.io/Past-Residences/"> Past Residences </a>
 
 <a href="https://lifesaver1414.github.io/Pretty-Majestic/"> Pretty Majestic </a>
 
