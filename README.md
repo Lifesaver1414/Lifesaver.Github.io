@@ -13,7 +13,7 @@ Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help 
 ### Here are some of my accomplishments!
 
 <html>
-  <title> I served on the white council</title>
+   I served on the white council
   <body> I was one of the head members of the council that grew to oppose Sauron, your welcome.</body>
   </html>
 
