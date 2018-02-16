@@ -29,4 +29,6 @@ Im a pretty powerful Wizard. Known for only saving all of Middle Earth, no help 
 
 <a href="https://lifesaver1414.github.io/Pretty-Majestic/"> Pretty Majestic </a>
 
+<a href="https://lifesaver1414.github.io/Sources/"> Sources </a>
+
 <body> Sauron's forces are still at work! If the link doesn't take you the page, copy the link and paste it in the search bar! I'll repel his influece while you do so! </body>
